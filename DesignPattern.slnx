@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Creational/">
+    <Project Path="Factory-Design-Pattern/Factory-Design-Pattern.csproj" />
+  </Folder>
+</Solution>
